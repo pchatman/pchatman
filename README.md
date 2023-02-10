@@ -1,7 +1,14 @@
 ### Hi there 👋
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+## About Me:
+I am a Quality Assurance Engineer turned Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Atlanta, GA, USA.
+- 🌱 I’m currently learning Front End Developer and working towards Full Stack Development.
+- ⚡ Fun fact: In my free time I enjoy learning history and economics. I also voluntare as a ESL (English as a Second Language) teacher.
+
 
 <!--
 **pchatman/pchatman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
