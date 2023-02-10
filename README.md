@@ -5,7 +5,7 @@
 </div>
 
 ## About Me:
-I am a Quality Assurance Engineer turned Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Atlanta, GA, USA.
+I am a Quality Assurance Engineer turned Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA.
 - 🌱 I’m currently learning Front End Developer and working towards Full Stack Development.
 - ⚡ Fun fact: In my free time I enjoy learning history and economics. I also voluntare as a ESL (English as a Second Language) teacher.
 
