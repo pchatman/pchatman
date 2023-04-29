@@ -5,13 +5,16 @@
 </div>
 
 ## About Me:
+
 I am a Quality Assurance Engineer turned Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA.
+
 - 🌱 I’m currently learning Front End Developer and working towards Full Stack Development.
 - ⚡ Fun fact: In my free time I enjoy learning history and economics. I also volunteer as an ESL (English as a Second Language) teacher.
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -25,8 +28,9 @@ I am a Quality Assurance Engineer turned Developer <img src="https://media.giphy
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original-wordmark.svg" title="SourceTree" alt="SourceTree" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="JIRA" alt="JIRA" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="BASH" alt="BASH" width="40" height="40"/>
 </div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="BASH" alt="BASH" width="40" height="40"/>
 <!--
 **pchatman/pchatman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,4 +44,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
