@@ -33,6 +33,8 @@ I am a Quality Assurance Engineer turned Developer <img src="https://media.giphy
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>
   <img src="https://github.com/pchatman/devicon/blob/master/icons/webpack/webpack-plain-wordmark.svg" title="webpack" alt="webpack" width="40" height="40"/>
+  <img src="https://github.com/pchatman/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" alt="sqlite" width="40" height="40"/>
+  <img src="https://github.com/pchatman/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>
 </div>
 
 <!-- **pchatman/pchatman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
