@@ -35,6 +35,7 @@ I am a Quality Assurance Engineer turned Developer <img src="https://media.giphy
   <img src="https://github.com/pchatman/devicon/blob/master/icons/webpack/webpack-plain-wordmark.svg" title="webpack" alt="webpack" width="40" height="40"/>
   <img src="https://github.com/pchatman/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" alt="sqlite" width="40" height="40"/>
   <img src="https://github.com/pchatman/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>
+  <img src="https://github.com/pchatman/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MicrosoftSQLServer" alt="microsoftsqlserver" width="40" height="40"/>
   <img src="https://github.com/pchatman/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="azure" width="40" height="40"/>
   <img src="https://github.com/pchatman/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="40" height="40"/>
   <img src="https://github.com/pchatman/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/>
