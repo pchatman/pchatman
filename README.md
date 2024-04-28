@@ -6,9 +6,9 @@
 
 ## About Me:
 
-I am a Quality Assurance Engineer turned Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA.
+I am a Quality Assurance Engineer with Software Development and Data Analytics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA.
 
-- 🌱 I’m currently learning Front End Developer and working towards Full Stack Development.
+- 🌱 I am increasing my knowledge of Data Analysis and Generative AI.
 - ⚡ Fun fact: In my free time I enjoy learning history and economics. I also volunteer as an ESL (English as a Second Language) teacher.
 
 ---
