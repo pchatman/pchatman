@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏾
 
 ##
 
@@ -8,7 +8,7 @@
 
 
 ## About Me:
-<!-- I am a Quality Assurance Engineer with Software Development and Data Analytics experience<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA. -->
+
 
 - 🌱 I am increasing my knowledge of Security Testing, Data Analysis, and Generative AI.
 - ⚡ Fun fact: In my free time I enjoy learning history and economics. I also volunteer as an ESL (English as a Second Language) teacher.
@@ -43,15 +43,4 @@
   <img src="https://github.com/pchatman/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/>
 </div>
 
-<!-- **pchatman/pchatman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+##
