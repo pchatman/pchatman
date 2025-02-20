@@ -34,6 +34,8 @@
   <img src="https://github.com/pchatman/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="azure" width="40" height="40"/>
   <img src="https://github.com/pchatman/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="40" height="40"/>
   <img src="https://github.com/pchatman/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/>
+  <img src="https://github.com/pchatman/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>
+  <img src="https://github.com/pchatman/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>
 </div>
 
 ##
