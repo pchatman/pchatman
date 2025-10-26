@@ -3,7 +3,7 @@
 ## About Me:
 
 
-- 🌱 I am increasing my knowledge of Security Testing, Data Analysis, and Generative AI.
+- 🌱 I am currently working on Data Analysis, Data Engineering, and Generative AI.
 - ⚡ Fun fact: In my free time I enjoy learning history and economics. I also volunteer as an ESL (English as a Second Language) teacher.
 
 ---
