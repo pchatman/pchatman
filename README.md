@@ -3,8 +3,8 @@
 ## About Me:
 
 
-- 🌱 I am developing skills in Data Analysis and Data Engineering, with a focus on transforming raw data into actionable insights and effective solutions.
-- ⚡ Fun fact: Outside of data work, I enjoy exploring history and economics, strengthening my technical writing to clearly communicate complex concepts, and volunteering as an ESL (English as a Second Language) instructor.
+- 🌱 I am currently working on Data Analysis, Data Engineering, and Generative AI.
+- ⚡ Fun fact: In my free time I enjoy learning history and economics. I also volunteer as an ESL (English as a Second Language) teacher.
 
 ---
 
@@ -39,3 +39,4 @@
 </div>
 
 ##
+
