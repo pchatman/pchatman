@@ -3,8 +3,8 @@
 ## About Me:
 
 
-- 🌱 I am currently working on Data Analysis, Data Engineering, and Generative AI.
-- ⚡ Fun fact: In my free time I enjoy learning history and economics. I also volunteer as an ESL (English as a Second Language) teacher.
+- 🌱 I am currently exploring Data Analysis and Data Engineering, transforming raw data into practical insights and smart solutions.
+- ⚡ Fun fact: When I am not working with data, I spend my time exploring history and economics, improving my technical writing skills to make complex ideas more accessible, and volunteering as an ESL (English as a Second Language) teacher.
 
 ---
 
