@@ -34,3 +34,5 @@ To design and implement data systems that are reliable, scalable, and capable of
 > "Always learning. Always building. Always improving the way data tells its story."
 
 ---
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pchatman)
