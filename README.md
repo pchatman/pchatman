@@ -3,6 +3,9 @@
 
 I am currently advancing my expertise in **Data Analysis** and **Data Engineering**, with a focus on transforming raw, complex datasets into actionable insights and scalable data solutions.
 
+[My Portfolio Website](https://pchatman.github.io/)
+
+
 What I work on
 
 - Cleaning, validating, and transforming structured and unstructured data  
