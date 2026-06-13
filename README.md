@@ -3,7 +3,7 @@
 
 I am currently advancing my expertise in **Data Analysis** and **Data Engineering**, with a focus on transforming raw, complex datasets into actionable insights and scalable data solutions.
 
-[My Portfolio Website](https://pchatman.github.io/)
+[Portfolio](https://pchatman.github.io/)
 
 
 What I work on
@@ -37,5 +37,6 @@ To design and implement data systems that are reliable, scalable, and capable of
 > "Always learning. Always building. Always improving the way data tells its story."
 
 ---
-
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pchatman)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pedrochatman)
 
