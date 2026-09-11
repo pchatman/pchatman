@@ -22,7 +22,7 @@ I am particularly interested in closing the gap between backend systems and anal
 - ETL pipeline development
 - Automation and workflow orchestration
 - Cloud-based data platforms
-- Backend software development
+- Full Stack development
 
 ## Goal
 
