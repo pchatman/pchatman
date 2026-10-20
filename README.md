@@ -1,6 +1,6 @@
 # About Me
 
-I am a **Software** and **Data Engineering** building the applications and data pipelines that power them.
+I am a **Software** and **Data Engineer** building the applications and data pipelines that power them.
 
 ## What I Build
 
